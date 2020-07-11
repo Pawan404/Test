@@ -6,7 +6,7 @@ import javax.persistence.Entity;
 public class User {
 	
 	static {
-		System.out.println("User entity 111");
+		System.out.println("User entity 111 0000");
 		System.out.println("User entity 222");
 	}
 	
