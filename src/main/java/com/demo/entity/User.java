@@ -7,6 +7,7 @@ public class User {
 	
 	static {
 		System.out.println("User entity 111");
+		System.out.println("User entity 222");
 	}
 	
 	
